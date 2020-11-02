@@ -40,4 +40,5 @@ public class ListContainer {
 		vampirelist.VampireTakeDamage(i, j, damage);
 		
 	}
+	//Esto se ignora
 }
